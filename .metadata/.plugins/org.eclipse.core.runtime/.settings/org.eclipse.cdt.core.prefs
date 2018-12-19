@@ -1,0 +1,8 @@
+build.all.configs.enabled=false
+build.proj.ref.configs.enabled=false
+eclipse.preferences.version=1
+environment/workspace/PATH/delimiter=;
+environment/workspace/PATH/operation=replace
+environment/workspace/PATH/value=C\:/Program Files/Java/jre1.8.0_73/bin/server;C\:/Program Files/Java/jre1.8.0_73/bin;C\:/Program Files/Java/jre1.8.0_73/lib/amd64;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\PROGRAM FILES\\DELL\\DW WLAN CARD;C\:\\Windows\\SYSTEM32;C\:\\Windows;C\:\\Windows\\SYSTEM32\\WBEM;C\:\\Windows\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0\\;C\:\\PROGRAM FILES\\INTEL\\WIFI\\BIN\\;C\:\\PROGRAM FILES\\COMMON FILES\\INTEL\\WIRELESSCOMMON\\;;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\cygwin64\\bin;C\:\\Users\\CJ\\Desktop\\Programs\\Eclipse305win\\eclipse;
+environment/workspace/append=true
+environment/workspace/appendContributed=true
